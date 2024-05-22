@@ -1,6 +1,6 @@
 # Privacy-Policy
 
-# Privacy Policy
+
 
 ## Introduction
 [Your App Name] ("we" or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by [Your App Name].
